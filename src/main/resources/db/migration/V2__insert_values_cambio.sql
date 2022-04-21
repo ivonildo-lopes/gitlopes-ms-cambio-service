@@ -1,0 +1,1 @@
+INSERT INTO cambio(from_currency, to_currency,conversion_factor) values('USD','BRL',5.40);

@@ -1,0 +1,13 @@
+package com.lopes;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MsCambioServiceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MsCambioServiceApplication.class, args);
+	}
+
+}
